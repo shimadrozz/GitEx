@@ -4,6 +4,8 @@ public class payload {
 
 	public static String AddPlace()
 	{
+		System.out.println("PostJira1");
+		System.out.println("PostJira2");
 		return "{\n"
 				+ "  \"location\": {\n"
 				+ "    \"lat\": -38.383494,\n"
