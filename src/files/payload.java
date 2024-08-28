@@ -1,6 +1,12 @@
 package files;
 
 public class payload {
+	
+	public static String Dummy()
+	{
+		System.out.println("Dummy");			
+				
+	}
 
 	public static String AddPlace()
 	{
