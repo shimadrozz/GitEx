@@ -2,9 +2,16 @@ package files;
 
 public class payload {
 	
-	public static String Dummy()
+	public static void Dummy()
 	{
 		System.out.println("Dummy");			
+				
+	}
+	
+	
+	public static void AnotherDummy()
+	{
+		System.out.println("Another Dummy");			
 				
 	}
 
